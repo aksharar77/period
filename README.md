@@ -13,10 +13,7 @@ A smart and user-friendly web application designed to help individuals track the
 
 ### 📅 Calendar Integration
 - Interactive **calendar page** where users can:
-  - Select specific dates to log or view symptoms.
-  - Use color-coded visual cues for different cycle phases.
-
-
+  - Select specific dates to log or view symptoms
 
 ### 🩺 Symptom Logging
 - On selecting a date, users can **log symptoms** such as:
@@ -43,9 +40,7 @@ A smart and user-friendly web application designed to help individuals track the
 
 
 ## 💻 Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask/Django)
-- **Database**: SQLite / Firebase (based on your setup)
+- Andriod studio
 
 
 ## 🚀 Future Enhancements
@@ -54,8 +49,7 @@ A smart and user-friendly web application designed to help individuals track the
 - Integration with wearable health devices
 
 
-## 📷 Screenshots
-(Add images here if available using `![title](image-path)`)
+
 
 
 
