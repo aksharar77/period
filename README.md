@@ -49,10 +49,3 @@ A smart and user-friendly web application designed to help individuals track the
 - Integration with wearable health devices
 
 
-
-
-
-
-## 🤝 Contributing
-Pull requests and feature suggestions are welcome!
-
